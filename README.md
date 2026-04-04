@@ -85,12 +85,16 @@ const tanish = {
 
 ## 💡 Featured Projects
 
-### 🎮 [Pikachu Explorer](https://github.com/TechTAnish-07/PokemonAPI)
-**Tech Stack:** React.js, REST API, CSS3
+### 🧠 [Live Interview Platform](#)
+**Tech Stack:** React.js, Spring Boot, MySQL, WebRTC (Planned)
 
-- Interactive Pokémon exploration app with **fully responsive UI** and smooth animations
-- Integrated **public REST APIs** for real-time Pokémon stats, abilities, and images
-- Optimized component structure using **React hooks** for better performance
+- Real-time interview platform enabling users to **conduct and attend live technical interviews**
+- Designed backend architecture using **Spring Boot** for authentication, session handling, and interview scheduling
+- Integrated **video/audio communication and live chat** to simulate real interview environments
+- Built an **interactive coding interface** for solving problems during interviews
+- Developed **reusable React components** to ensure smooth UI/UX and scalability
+- Implemented **role-based access (interviewer/candidate)** and interview history tracking
+
 
 ### 🏠 [Sangraj Rentals](https://github.com/TechTAnish-07/CarrentalFrontend)
 **Tech Stack:** React.js, Spring Boot (Planned), MySQL
@@ -99,12 +103,6 @@ const tanish = {
 - Designed backend architecture with **Spring Boot + SQL** for authentication & availability
 - Built **reusable React components** with improved UI/UX for seamless navigation
 
-### 🚗 Car Parking System
-**Tech Stack:** C++ (OOP)
-
-- Modular parking management system applying **OOP principles** (inheritance, encapsulation)
-- Implemented **slot allocation, capacity checks**, and vehicle tracking with class hierarchies
-- Clean, maintainable architecture supporting future extensions
 
 ## 📊 GitHub Analytics
 
