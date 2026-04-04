@@ -85,7 +85,7 @@ const tanish = {
 
 ## 💡 Featured Projects
 
-### 🧠 [Live Interview Platform](#)
+### 🧠 [Live Interview Platform](https://github.com/TechTAnish-07/LiveInterview)
 **Tech Stack:** React.js, Spring Boot, MySQL, WebRTC (Planned)
 
 - Real-time interview platform enabling users to **conduct and attend live technical interviews**
