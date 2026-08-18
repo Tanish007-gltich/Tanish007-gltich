@@ -49,33 +49,6 @@ Built a <b>RAG-based QA Bot</b> with LangChain — <b>80% reduction</b> in manua
 </tr>
 </table>
 
----
-
-### 🛠️ Tech Arsenal
-
-<div align="center">
-
-**Languages**
-<br>
-<img src="https://skillicons.dev/icons?i=java,cpp,js,python,html,css" />
-
-**Backend & AI**
-<br>
-<img src="https://skillicons.dev/icons?i=spring,nodejs,express,fastapi,postgres,mysql" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" height="32"/>
-<img src="https://img.shields.io/badge/RAG_%2F_LLM_Agents-black?style=for-the-badge&logo=openai&logoColor=white" height="32"/>
-
-**Frontend & Realtime**
-<br>
-<img src="https://skillicons.dev/icons?i=react,redux,tailwind" />
-<img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" height="32"/>
-<img src="https://img.shields.io/badge/WebSocket_(STOMP)-010101?style=for-the-badge&logo=socketdotio&logoColor=white" height="32"/>
-
-**Tools & Infra**
-<br>
-<img src="https://skillicons.dev/icons?i=git,github,postman,linux,vscode" />
-
-</div>
 
 ---
 
