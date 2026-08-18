@@ -1,176 +1,158 @@
-# Hey there! 👋 I'm Tanish Patidar
-
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Competitive+Programmer+%F0%9F%92%BB;IIIT+Trichy+%7C+CSE+Student;Problem+Solver+%26+Builder+%F0%9F%8E%AF)](https://git.io/typing-svg)
 
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" alt="Coding">
+<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89ca31.gif" width="100%">
+
+<a href="https://github.com/TechTAnish-07">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2600&pause=900&color=3B82F6&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Tanish+Patidar+%F0%9F%91%8B;Full-Stack+Engineer+%7C+Java+%2F+Spring+Boot+%2F+React;Building+AI+Agents+%26+RAG+Systems+%F0%9F%A4%96;Competitive+Programmer+%40+IIIT+Trichy" alt="Typing SVG" />
+</a>
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/-Tanish_Patidar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanish07patidar-/)
+[![Gmail](https://img.shields.io/badge/-patidar29tanish%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:patidar29tanish@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://tanishportfolio29.netlify.app)
+[![LeetCode](https://img.shields.io/badge/-TAnish__07-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/TAnish_07/)
+[![CodeChef](https://img.shields.io/badge/-tanish__7-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/tanish_7)
 
 </div>
 
-## 🚀 About Me
+---
 
-I'm a **B.Tech Computer Science student at IIIT Tiruchirappalli** passionate about crafting scalable web applications and solving complex algorithmic problems. With a strong foundation in **full-stack development** and **competitive programming**, I thrive at the intersection of elegant code and practical solutions.
+### 🧭 About Me
 
-```javascript
-const tanish = {
-    location: "Tiruchirappalli, Tamil Nadu 🇮🇳",
-    education: "IIIT Trichy | B.Tech CSE (2023-2027)",
-    currentFocus: ["Full Stack Development", "Spring Boot", "System Design"],
-    learning: ["Advanced Algorithms", "Backend Architecture", "Machine Learning"],
-    achievements: ["CodeChef Max: 1672", "LeetCode Max: 1792", "Flipkart Grid 7.0 Semi-Finalist"],
-    askMeAbout: ["React", "Spring Boot", "DSA", "Competitive Programming"],
-    funFact: "I debug faster than I run on the football field! ⚽😄"
-};
+```yaml
+name: Tanish Patidar
+role: Full-Stack Engineer (Java · Spring Boot · React.js)
+focus: Production AI/RAG applications with LangChain & LLM agents
+education: B.Tech CSE @ IIIT Tiruchirappalli (2023 – 2027) · CGPA 7.6/10
+currently_building: An AI voice interview agent — LiveKit + LLM tool-calling + Spring Boot
+currently_exploring: Distributed systems, agentic workflows, system design at scale
+fun_fact: I debug faster than I run on the football field ⚽
 ```
 
-## 🏆 Competitive Programming Highlights
+I'm a Computer Science undergrad who enjoys turning ambiguous problems into shipped, production-grade systems — from real-time WebSocket pipelines to autonomous AI agents that reason over context. I most recently spent a summer at **47Billion** building a RAG-based QA bot that cut manual query resolution time by 80%.
+
+---
+
+### 💼 Experience
+
+<table>
+<tr>
+<td width="140"><b>May – Jul 2026</b></td>
+<td>
+<b>Software Development Engineer Intern</b> · <a href="#">47Billion</a>, Indore<br>
+Built a <b>RAG-based QA Bot</b> with LangChain — <b>80% reduction</b> in manual query resolution time, <b>90% retrieval accuracy</b>. Designed vector-embedding data pipelines for gigabyte-scale contextual grounding, and cut LLM task hallucination rates by <b>90%</b> through advanced prompt engineering.
+</td>
+</tr>
+</table>
+
+---
+
+### 🛠️ Tech Arsenal
 
 <div align="center">
 
-| Achievement | Details |
-|-------------|---------|
-| 🥉 **CodeChef Starters 179** | Global Rank **203** (Div 3) |
-| 🎯 **LeetCode Weekly 445** | Ranked **702 / 25,000** |
-| ⭐ **LeetCode Rating** | Max **1792** - [TAnish_07](https://leetcode.com/u/TAnish_07/) |
-| 🔥 **CodeChef Rating** | Max **1672** - [tanish_7](https://www.codechef.com/users/tanish_7) |
-| 💻 **Codeforces** | Active Profile - [TAnish_29](https://codeforces.com/profile/TAnish_29) |
+**Languages**
+<br>
+<img src="https://skillicons.dev/icons?i=java,cpp,js,python,html,css" />
+
+**Backend & AI**
+<br>
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express,fastapi,postgres,mysql" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" height="32"/>
+<img src="https://img.shields.io/badge/RAG_%2F_LLM_Agents-black?style=for-the-badge&logo=openai&logoColor=white" height="32"/>
+
+**Frontend & Realtime**
+<br>
+<img src="https://skillicons.dev/icons?i=react,redux,tailwind" />
+<img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" height="32"/>
+<img src="https://img.shields.io/badge/WebSocket_(STOMP)-010101?style=for-the-badge&logo=socketdotio&logoColor=white" height="32"/>
+
+**Tools & Infra**
+<br>
+<img src="https://skillicons.dev/icons?i=git,github,postman,linux,vscode" />
 
 </div>
 
-## 🧠 LeetCode Stats
+---
+
+### 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 🎙️ [LiveInterview](https://github.com/TechTAnish-07/LiveInterview)
+**AI-Powered Real-Time Interview Platform**
+`Spring Boot` `React.js` `PostgreSQL` `WebSockets` `WebRTC` `LiveKit Agents` `Gemini`
+
+- Autonomous **AI voice interviewer agent** (VAD → STT → LLM → TTS) with tool-calling and rolling-summarization memory for long, context-aware sessions
+- **Judge0-powered live coding round** streamed through LiveKit's data channel, with secure code execution proxied via the Spring Boot backend
+- Real-time collaborative editing via role-based WebSocket broadcasting
+- Interview integrity monitors + AI safety controls (resume-role relevance checks, content moderation, session limits)
+- Post-session **LLM-generated feedback reports** on technical depth & resume-answer consistency
+
+</td>
+<td width="50%" valign="top">
+
+#### 🚗 [Sangraj Rentals](https://github.com/TechTAnish-07/CarrentalFrontend)
+**Highly-Available Booking Engine**
+`Spring Boot` `React.js` `PostgreSQL` `Spring Security`
+
+- Full-stack vehicle booking engine with dynamic hourly scheduling & real-time availability tracking
+- **Strict transactional isolation** in PostgreSQL, eliminating double-booking race conditions under concurrent load
+- **RBAC** via Spring Security + JWT for rigorous fleet-admin authorization
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🏆 Competitive Programming
 
 <div align="center">
-  <img 
-    src="https://leetcard.jacoblin.cool/TAnish_07?theme=dark&font=Fira%20Code&ext=heatmap" 
-    alt="LeetCode Stats"
-  />
+
+| Platform | Rating / Rank |
+|:---:|:---:|
+| 🟠 **LeetCode** | Max **1792** · Top 3% — Rank **702/25,000** in Weekly Contest 445 |
+| 🟤 **CodeChef** | 3⭐ · Max **1672** · Global Rank **203** in Starters 179 (Div 3) |
+| 🔵 **Codeforces** | [Active Profile →](https://codeforces.com/profile/TAnish_29) |
+
+<img src="https://leetcard.jacoblin.cool/TAnish_07?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
+
 </div>
 
+---
 
-## 🛠️ Tech Arsenal
+### 📊 GitHub Analytics
 
-### **Languages**
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-</p>
+<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=TechTAnish-07&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechTAnish-07&layout=compact&theme=radical&hide_border=true&langs_count=8" />
 
-### **Frameworks & Libraries**
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-</p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TechTAnish-07&theme=radical&hide_border=true" alt="streak stats"/>
 
-### **Database & Tools**
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TechTAnish-07&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+</div>
 
-## 🧩 Backend Engineering Focus
+---
 
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-Backend-brightgreen?style=for-the-badge&logo=springboot)
-![REST API](https://img.shields.io/badge/REST%20APIs-Design-blue?style=for-the-badge)
-![JWT](https://img.shields.io/badge/JWT-Authentication-orange?style=for-the-badge)
-![MySQL](https://img.shields.io/badge/MySQL-Database-blue?style=for-the-badge&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-316192?style=for-the-badge&logo=postgresql)
-![System Design](https://img.shields.io/badge/System%20Design-Scalable-important?style=for-the-badge)
+### 🏅 Achievements & Certifications
 
-## 💡 Featured Projects
-
-### 🧠 [Live Interview Platform](https://github.com/TechTAnish-07/LiveInterview)
-**Tech Stack:** React.js, Spring Boot, MySQL, WebRTC (Planned)
-
-- Real-time interview platform enabling users to **conduct and attend live technical interviews**
-- Designed backend architecture using **Spring Boot** for authentication, session handling, and interview scheduling
-- Integrated **video/audio communication and live chat** to simulate real interview environments
-- Built an **interactive coding interface** for solving problems during interviews
-- Developed **reusable React components** to ensure smooth UI/UX and scalability
-- Implemented **role-based access (interviewer/candidate)** and interview history tracking
-
-
-### 🏠 [Sangraj Rentals](https://github.com/TechTAnish-07/CarrentalFrontend)
-**Tech Stack:** React.js, Spring Boot (Planned), MySQL
-
-- Equipment-rental platform enabling users to **list, browse, and rent items online**
-- Designed backend architecture with **Spring Boot + SQL** for authentication & availability
-- Built **reusable React components** with improved UI/UX for seamless navigation
-
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=TechTAnish-07&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400" 
-    alt="GitHub Stats"
-  />
-</p>
-
-
-
-
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TechTAnish-07&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechTAnish-07&layout=compact&theme=radical&langs_count=8" alt="Top Languages" />
-</p>
-
-## 🎯 Current Focus
-
-- 🔨 Building **scalable full-stack applications** with React.js and Spring Boot
-- 📚 Mastering **backend architectures** and RESTful API design
-- 🧠 Advancing in **competitive programming** contests (CodeChef, LeetCode, Codeforces)
-- 🤖 Exploring **Machine Learning** through Coursera certifications
-- 🌐 Contributing to **open-source** projects and collaborating with developers
-
-## 🏅 Achievements & Certifications
-
-- 🥈 **Flipkart Grid 7.0** - Semi-Finalist
-- 📜 **Machine Learning: Supervised Learning** - Coursera
-- 📜 **Advanced Learning Algorithms** - Coursera
-- ⚽ **Most Valuable Player** - Football Season (Leadership & Teamwork)
-- 🏆 **All-Rounder Trophy** - 10th Grade (Academics + Sports Excellence)
-
-## 📫 Let's Connect!
-
-<p align="center">
-<a href="https://www.linkedin.com/in/tanish07patidar-/" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-</a>
-<a href="mailto:patidar29tanish@gmail.com" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height="30" width="40" />
-</a>
-<a href="https://leetcode.com/u/TAnish_07/" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
-</a>
-<a href="https://www.codechef.com/users/tanish_7" target="_blank">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="40" />
-</a>
-<a href="https://codeforces.com/profile/TAnish_29" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" />
-</a>
-</p>
-
-
+- 🥈 **Flipkart Grid 7.0** — National Semi-Finalist
+- 📜 **Stanford Machine Learning Specialization** (Coursera) — Supervised Learning & Advanced Neural Networks
+- ⚽ **Most Valuable Player** — Football Season (Leadership & Teamwork)
+- 🏆 **All-Rounder Trophy** — Academics + Sports Excellence
 
 ---
 
 <div align="center">
 
-### 💭 *"First, solve the problem. Then, write the code." – John Johnson*
+### 💭 *"First, solve the problem. Then, write the code."* — John Johnson
 
-**⭐ From [Tanish Patidar](https://github.com/TechTAnish-07) | Open to collaborations and opportunities!**
+⭐ **From [Tanish Patidar](https://github.com/TechTAnish-07)** · Open to SDE / Full-Stack / AI Engineering opportunities
+
+<img src="https://komarev.com/ghpvc/?username=TechTAnish-07&style=flat-square&color=3B82F6" alt="profile views"/>
 
 </div>
