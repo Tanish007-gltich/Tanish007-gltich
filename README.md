@@ -30,7 +30,7 @@ currently_exploring: Distributed systems, agentic workflows, system design at sc
 fun_fact: I debug faster than I run on the football field ⚽
 ```
 
-I'm a Computer Science undergrad who enjoys turning ambiguous problems into shipped, production-grade systems — from real-time WebSocket pipelines to autonomous AI agents that reason over context. I most recently spent a summer at **47Billion** building a RAG-based QA bot that cut manual query resolution time by 80%.
+I'm a Computer Science undergrad who enjoys turning ambiguous problems into shipped, production grade systems from real time WebSocket pipelines to autonomous AI agents that reason over context. I most recently spent a summer at **47Billion** building a RAG based QA bot that cut manual query resolution time by 80%.
 
 ---
 
