@@ -3,9 +3,11 @@
 <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89ca31.gif" width="100%">
 
 
+  <div align="center">
   <a href="https://github.com/TechTAnish-07">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2600&pause=900&color=3B82F6&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Tanish+Patidar+%F0%9F%91%8B;Full-Stack+Developer+%7C+Java+%7C+Spring+Boot+%7C+React;AI+Agents+%7C+RAG+%7C+LLM+Applications+%F0%9F%A4%96;DSA+%7C+Competitive+Programming+%7C+IIIT+Trichy" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2600&pause=900&color=3B82F6&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Tanish+Patidar+%F0%9F%91%8B;Full-Stack+Developer+%7C+Java+%7C+Spring+Boot+%7C+React;AI+Agents+%7C+RAG+%7C+LLM+Applications+%F0%9F%A4%A1;DSA+%7C+Competitive+Programming+%7C+IIIT+Trichy" alt="Typing SVG" />
   </a>
+</div>
 
 <br>
 
