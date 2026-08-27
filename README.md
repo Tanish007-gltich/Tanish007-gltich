@@ -15,7 +15,6 @@
 [![Gmail](https://img.shields.io/badge/-patidar29tanish%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:patidar29tanish@gmail.com)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://tanishportfolio29.netlify.app)
 [![LeetCode](https://img.shields.io/badge/-TAnish__07-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/TAnish_07/)
-[![CodeChef](https://img.shields.io/badge/-tanish__7-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/tanish_7)
 
 </div>
 
